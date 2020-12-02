@@ -1,0 +1,11 @@
+{
+  {
+    "PathToDirectory": {
+      "SourceDirectory": "C:\\SourceD",
+      "TargetDirectory": "C:\\TargetD"
+    },
+    "Archive": {
+      "Name": "archive.zip" 
+    }
+  }
+}
