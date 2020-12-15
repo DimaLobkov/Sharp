@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DataOptions>
+  <ConnectionString>Data Source = DIMA-SQLEXPRESS; Initial Catalog = AdventureWorksLT2019; Integrated Security = True</ConnectionString>
+  <SourceDirectory>C:\SourceD</SourceDirectory>
+  <TargetDirectory>C:\TargetD</TargetDirectory>
+  <LoggerConnectionString>Data Source = DIMA-SQLEXPRESS; Initial Catalog = ApplicationInsights; Integrated Security = True</LoggerConnectionString>
+</DataOptions>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="DataOptions">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="ConnectionString" type="xs:string" />
+        <xs:element name="SourceDirectory" type="xs:string" />
+        <xs:element name="TargetDirectory" type="xs:string" />
+        <xs:element name="LoggerConnectionString" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
